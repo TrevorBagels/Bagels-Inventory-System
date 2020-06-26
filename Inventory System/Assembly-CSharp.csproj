@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Inventory\Scripts\Inventory.cs" />
-     <Compile Include="Assets\Inventory\Scripts\ItemObject.cs" />
+     <Compile Include="Assets\Inventory\Scripts\ItemPreset.cs" />
      <Compile Include="Assets\Inventory\Scripts\Others.cs" />
      <Compile Include="Assets\Inventory\Scripts\Singleton.cs" />
      <Compile Include="Assets\Inventory\Tests\InventoryTesting.cs" />
@@ -589,31 +589,31 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.13f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/there/Documents/Productive/Unity Projects/Inventory System/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/there/Documents/GitHub/BagelsInventory/Inventory System/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/there/Documents/Productive/Unity Projects/Inventory System/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/there/Documents/GitHub/BagelsInventory/Inventory System/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/there/Documents/Productive/Unity Projects/Inventory System/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/there/Documents/GitHub/BagelsInventory/Inventory System/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/there/Documents/Productive/Unity Projects/Inventory System/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/there/Documents/GitHub/BagelsInventory/Inventory System/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/there/Documents/Productive/Unity Projects/Inventory System/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/there/Documents/GitHub/BagelsInventory/Inventory System/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/there/Documents/Productive/Unity Projects/Inventory System/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/there/Documents/GitHub/BagelsInventory/Inventory System/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/there/Documents/Productive/Unity Projects/Inventory System/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/there/Documents/GitHub/BagelsInventory/Inventory System/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/there/Documents/Productive/Unity Projects/Inventory System/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/there/Documents/GitHub/BagelsInventory/Inventory System/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/there/Documents/Productive/Unity Projects/Inventory System/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/there/Documents/GitHub/BagelsInventory/Inventory System/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

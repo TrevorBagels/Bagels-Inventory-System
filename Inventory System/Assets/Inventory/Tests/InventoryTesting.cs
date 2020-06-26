@@ -4,8 +4,8 @@ using UnityEngine;
 using BagelsInventory;
 public class InventoryTesting : MonoBehaviour
 {
-    public ItemObject ItemRef;
-    public ItemObject ItemRefToStackable;
+    public ItemPreset ItemRef;
+    public ItemPreset ItemRefToStackable;
 
     // Start is called before the first frame update
     void Start()
